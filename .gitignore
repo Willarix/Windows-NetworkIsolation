@@ -1,0 +1,13 @@
+# Local device state and activity logs
+/runtime/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+
+# Temporary and Windows metadata files
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
